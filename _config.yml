@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Alpha Pearl / King's College London"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alpha Pearl"
 description              : &description "personal description"
 url                      : https://alexyanghz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "AlphaPearl.png"
   name             : "Mingzhu Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "London"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "King's College London"
+  uri              : "https://www.kcl.ac.uk/"
   email            : "alphapearl@163.com" 
 
   # Academic websites
